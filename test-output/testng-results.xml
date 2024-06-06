@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-06T11:35:33 IST" name="Default suite" finished-at="2024-06-06T11:36:17 IST" duration-ms="43138">
+    <groups>
+    </groups>
+    <test started-at="2024-06-06T11:35:33 IST" name="Default test" finished-at="2024-06-06T11:36:17 IST" duration-ms="43138">
+      <class name="Testcase.TestClassSauce">
+        <test-method signature="a()[pri:0, instance:Testcase.TestClassSauce@7582ff54]" started-at="2024-06-06T11:35:33 IST" name="a" finished-at="2024-06-06T11:35:46 IST" duration-ms="12225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method signature="b()[pri:0, instance:Testcase.TestClassSauce@7582ff54]" started-at="2024-06-06T11:35:46 IST" name="b" finished-at="2024-06-06T11:35:53 IST" duration-ms="7425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="c()[pri:0, instance:Testcase.TestClassSauce@7582ff54]" started-at="2024-06-06T11:35:53 IST" name="c" finished-at="2024-06-06T11:36:00 IST" duration-ms="6918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method signature="d()[pri:0, instance:Testcase.TestClassSauce@7582ff54]" started-at="2024-06-06T11:36:00 IST" name="d" finished-at="2024-06-06T11:36:07 IST" duration-ms="6625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="e()[pri:0, instance:Testcase.TestClassSauce@7582ff54]" started-at="2024-06-06T11:36:07 IST" name="e" finished-at="2024-06-06T11:36:08 IST" duration-ms="1336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e -->
+        <test-method signature="f()[pri:0, instance:Testcase.TestClassSauce@7582ff54]" started-at="2024-06-06T11:36:08 IST" name="f" finished-at="2024-06-06T11:36:11 IST" duration-ms="2834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="g()[pri:0, instance:Testcase.TestClassSauce@7582ff54]" started-at="2024-06-06T11:36:11 IST" name="g" finished-at="2024-06-06T11:36:17 IST" duration-ms="5605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+      </class> <!-- Testcase.TestClassSauce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
