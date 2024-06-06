@@ -59,6 +59,7 @@ public class TestClassSauce {
 	  driver.findElement(By.id("finish")).click();
 	  String OrderMessage = driver.findElement(By.xpath("//h2[normalize-space()='Thank you for your order!']")).getText();
 	  Assert.assertEquals(OrderMessage, "Thank you for your order!");
+	  driver.close();
   }
   
 }

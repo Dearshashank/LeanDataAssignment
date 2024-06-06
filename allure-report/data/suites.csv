@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 06 12:22:30 IST 2024","Thu Jun 06 12:22:33 IST 2024","2817","Surefire suite","Surefire test","Testcase.TestClassSauce","Testcase.TestClassSauce","f","f",""
+"passed","Thu Jun 06 12:22:12 IST 2024","Thu Jun 06 12:22:15 IST 2024","2917","Surefire suite","Surefire test","Testcase.TestClassSauce","Testcase.TestClassSauce","b","b",""
+"passed","Thu Jun 06 12:22:29 IST 2024","Thu Jun 06 12:22:30 IST 2024","1342","Surefire suite","Surefire test","Testcase.TestClassSauce","Testcase.TestClassSauce","e","e",""
+"passed","Thu Jun 06 12:22:15 IST 2024","Thu Jun 06 12:22:22 IST 2024","7412","Surefire suite","Surefire test","Testcase.TestClassSauce","Testcase.TestClassSauce","c","c",""
+"passed","Thu Jun 06 12:21:59 IST 2024","Thu Jun 06 12:22:07 IST 2024","7101","Surefire suite","Surefire test","Testcase.TestClassSauce","Testcase.TestClassSauce","a","a",""
+"passed","Thu Jun 06 12:22:27 IST 2024","Thu Jun 06 12:22:29 IST 2024","1634","Surefire suite","Surefire test","Testcase.TestClassSauce","Testcase.TestClassSauce","d","d",""
+"passed","Thu Jun 06 12:22:38 IST 2024","Thu Jun 06 12:22:38 IST 2024","632","Surefire suite","Surefire test","Testcase.TestClassSauce","Testcase.TestClassSauce","g","g",""
